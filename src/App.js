@@ -17,7 +17,7 @@ export default class App extends Component {
             spaceKey="react-space"
             spaceName="React Space"
             appKey="react-files"
-            appName="React Files"
+            appName="Digi Library"
             appType="files"
             />
         </div>
